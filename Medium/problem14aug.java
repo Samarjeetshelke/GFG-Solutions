@@ -12,7 +12,7 @@ Explanation:
 3 and 4 occur exactly once.
 */
 
-class Solution
+class Solution   
 {
 public:
    
